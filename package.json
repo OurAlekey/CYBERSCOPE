@@ -1,0 +1,59 @@
+{
+  "name": "notaryw",
+  "version": "7.0.0",
+  "homepage": "http://.",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@fullcalendar/core": "^5.7.2",
+    "@fullcalendar/daygrid": "^5.7.2",
+    "@fullcalendar/interaction": "^5.7.2",
+    "@fullcalendar/react": "^5.7.0",
+    "@fullcalendar/timegrid": "^5.7.2",
+    "@mui/material": "^5.10.0",
+    "@react-pdf/renderer": "^2.3.0",
+    "axios": "^0.19.0",
+    "chart.js": "3.3.2",
+    "fontkit": "^2.0.2",
+    "formik": "^2.2.9",
+    "jwt-decode": "^3.1.2",
+    "primeflex": "3.1.2",
+    "primeicons": "5.0.0",
+    "primereact": "7.2.0",
+    "prismjs": "1.9.0",
+    "quill": "1.3.7",
+    "react": "^17.0.1",
+    "react-app-polyfill": "^2.0.0",
+    "react-dom": "^17.0.1",
+    "react-final-form": "^6.5.9",
+    "react-hooks": "^1.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-to-print": "^2.14.7",
+    "react-transition-group": "^4.4.1",
+    "sass": "^1.32.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "Aplicacion para gestion de contratos",
+  "main": "index.js",
+  "author": "Alex Say <sayalex35@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primefaces/freya-react/issues"
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.5.0"
+  }
+}
